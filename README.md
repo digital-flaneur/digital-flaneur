@@ -1,4 +1,6 @@
-## Hi there 👋
+## hello world 👋
+
+I am Charles (Yuan Cui), a Ph.D. candidate in Computer Science at Northwestern University. I am interested in human-AI collaboration, data science, and data visualization. Currently, I use large language models and data science methods to develop adaptive, scalable, and quality-oriented technology for data visualization. I am passionate about advancing human-AI collaboration to improve our productivity and creativity.
 
 <!--
 **digital-flaneur/digital-flaneur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
