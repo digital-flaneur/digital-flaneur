@@ -11,7 +11,6 @@ I am Charles Cui, a CS Ph.D. candidate at Northwestern. I study human-AI collabo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="typescript"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" title="latex"/>
 </div>
-          
 
 ### Frameworks
 <div style="display: flex; gap: 15px; align-items: center;">
@@ -36,19 +35,6 @@ I am Charles Cui, a CS Ph.D. candidate at Northwestern. I study human-AI collabo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="40" height="40" title="slack"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40" title="trello" /> 
 </div>
-
-
-          
-          
-          
-          
-          
-                              
-          
-          
-          
-          
-          
 
 <!--
 **digital-flaneur/digital-flaneur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
