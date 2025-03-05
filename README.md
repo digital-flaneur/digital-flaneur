@@ -1,6 +1,6 @@
 # hello world 🦖
 
-I am Charles Cui, a CS Ph.D. candidate at Northwestern. I study human-AI collaboration, data science, and data visualization. Currently, I use large language models and data science methods to develop adaptive, scalable, and interactive technology for data visualization and education. I am passionate about advancing human-AI collaboration to improve our productivity and creativity.
+I am a Ph.D. candidate in Computer Science at Northwestern University. I am broadly interested in advancing **human-AI collaboration** to improve our productivity and creativity. In particular, my thesis research includes using data science methods and large language models to build adaptive, scalable, and interactive technology to measure and promote data visualization literacy and help teachers develop educational assessments. I use a variety of methods in research, including quantitative/qualitative analysis of human-computer interactions and developing/evaluating systems.
 
 ## Tech Stack
 
