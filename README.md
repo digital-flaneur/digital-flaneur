@@ -1,6 +1,6 @@
 # hello world 🦖
 
-I am a Ph.D. candidate in Computer Science at Northwestern University. I am broadly interested in advancing **human-AI collaboration** to improve our productivity and creativity. In particular, my thesis research includes using data science methods and large language models to build adaptive, scalable, and interactive technology to measure and promote data visualization literacy and help teachers develop educational assessments. I use a variety of methods in research, including quantitative/qualitative analysis of human-computer interactions and developing/evaluating systems.
+I am a Ph.D. candidate in Computer Science at Northwestern University. I am broadly interested in advancing **human-AI collaboration** to improve our productivity and creativity. In particular, my thesis research includes using data science methods and large language models to build adaptive, scalable, and interactive technology to measure and promote data visualization literacy and help teachers develop educational assessments. I use a variety of approaches in research, including quantitative and qualitative analysis of human-computer and human-human interactions, as well as designing, developing, and evaluating systems.
 
 ## Tech Stack
 
