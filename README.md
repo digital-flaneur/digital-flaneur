@@ -1,7 +1,8 @@
 # hello world 🦖
 
-I am a Ph.D. candidate in Computer Science at Northwestern University. I am broadly interested in advancing **human-AI collaboration** to improve our productivity and creativity. In particular, my thesis research includes using data science methods and large language models to build adaptive, scalable, and interactive technology to measure and promote data visualization literacy and help teachers develop educational assessments. I use a variety of approaches in research, including quantitative and qualitative analysis of human-computer and human-human interactions, as well as designing, developing, and evaluating systems.
+I am a builder passionate about advancing human-AI collaboration to improve our productivity and creativity. I love studying how people work and building solutions to help them work better. 
 
+I completed my Ph.D. in Computer Science at Northwestern University, advised by Matthew Kay. Back in my Ph.D. days, I built adaptive, scalable, and human-centered AI systems for data visualization and education. I also worked across fields and institutions to explore my interdisciplinary interests: I co-directed EAAMO Bridges; I built mortality estimation models at the Max Planck Institute for Demographic Research; I developed statistical methods for disparity estimation at Stanford's RegLab; I built machine learning solutions for the 988 Lifeline as a Data Science for Social Good fellow at Carnegie Mellon University.
 ## Tech Stack
 
 ### Languages | Frameworks | Databases
