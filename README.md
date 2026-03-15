@@ -1,4 +1,4 @@
-# hello world 🦖
+# About 🦖
 
 I am a builder passionate about advancing human-AI collaboration to improve our productivity and creativity. I love studying how people work and building solutions to help them work better. 
 
